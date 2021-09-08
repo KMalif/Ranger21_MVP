@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUD MVP Barang</string>
+    <string name="email">Email</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="signup">signup</string>
+    <string name="Title">MVP CRUD</string>
+    <string name="Username">Username</string>
+</resources>
